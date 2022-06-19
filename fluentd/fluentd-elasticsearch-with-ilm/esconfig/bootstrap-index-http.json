@@ -1,0 +1,7 @@
+{
+  "aliases": {
+    "fluentd-http": {
+      "is_write_index": true
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "aliases": {
+    "fluentd-file": {
+      "is_write_index": true
+    }
+  }
+}
