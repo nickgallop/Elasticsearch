@@ -1,0 +1,9 @@
+{
+  "index_patterns": ["fluentd-docker-*"],                 
+  "template": {
+    "settings": {
+      "index.lifecycle.name": "fluentd",      
+      "index.lifecycle.rollover_alias": "fluentd-docker"    
+    }
+  }
+}

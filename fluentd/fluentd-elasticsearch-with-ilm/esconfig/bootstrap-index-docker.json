@@ -1,0 +1,7 @@
+{
+  "aliases": {
+    "fluentd-docker": {
+      "is_write_index": true
+    }
+  }
+}
